@@ -23,4 +23,9 @@ This API gives us cities based on their name with pagination
 
 ## /api/cities/algorithm
 
-This API gives us  the longest possible sequence of city Id's which form an ascending list of numbers (the cities are oredered alphabetically).
+This API gives us  the longest possible sequence of city Id's which form an ascending list of numbers (the cities are ordered alphabetically).
+
+
+## Further help
+
+You can see an example app using this backend in this [repository](https://github.com/vijaypsv/cities-app)
