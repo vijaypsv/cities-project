@@ -1,4 +1,4 @@
-package com.cities.app;
+package com.cities;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
